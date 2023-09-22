@@ -1,0 +1,25 @@
+https://github.com/yingdongfeng/.dotfiles
+In this lab activity, I gained a deeper understanding of the basic operations and settings of Git. During the setup and configuration process, I realized the importance of SSH keys in secure code submission. I encountered some challenges with this assignment when it came to SSH keys and GitHub connections. After some investigation and bugfixing, I finally successfully set up my repo.
+
+The most challenging part is handling SSH keys and ensuring they are correctly recognized on GitHub. I spent some time making sure I copied and pasted the public key accurately. Additionally, it was an interesting experience learning how to inspect and verify my command history, which taught me how to track and log all the actions I performed in the terminal.
+
+Overall, this lab experience improved my Git skills and understanding of version control. I look forward to applying this knowledge on future projects to ensure safe and efficient management of code.
+
+
+
+
+
+GitHub’s guide to adding SSH keys:
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/
+adding-a-new-ssh-key-to-your-github-account
+Creating SSH Keys:
+https://www.unixtutorial.org/how-to-generate-ed25519-ssh-key/
+GitHub Markdown Cheat Sheets:
+https://www.google.com/search?q=markdown+github+cheat+sheet&rlz=1C1CHBF_
+enUS994US994&oq=markdown+github+&aqs=chrome.1.69i57j0i512l9.5975j0j7&sourceid=
+chrome&ie=UTF-8
+Git Cheat Sheet:
+https://education.github.com/git-cheat-sheet-education.pdf
+This is my .dotfiles on GitHub:
+https://github.com/s7117/.dotfiles
+ls -1
